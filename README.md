@@ -34,6 +34,8 @@ python main.py
 
     Make sure your webcam is connected and accessible.
 
+5. 🔴To end the program and exit, press the Q key on the keyboard.
+
 📦 Requirements
 
     Python 3.10 or higher
